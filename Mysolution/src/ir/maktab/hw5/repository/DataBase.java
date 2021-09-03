@@ -1,4 +1,4 @@
-package ir.maktab.hw5.database;
+package ir.maktab.hw5.repository;
 
 import ir.maktab.hw5.domain.Article;
 import ir.maktab.hw5.domain.Category;
@@ -13,8 +13,11 @@ public class DataBase {
     private Category[] categories;
     private Article[] articles;
 
+    public DataBase() {
 
-    public DataBase(Writer[] writers , Writer onlineWriter , Category[] categories , Article[] articles) {
+    }
+
+    public DataBase(Writer[] writers, Writer onlineWriter, Category[] categories, Article[] articles) {
         this.writers = writers;
         this.onlineWriter = onlineWriter;
         this.categories = categories;

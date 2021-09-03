@@ -1,4 +1,4 @@
-package ir.maktab.hw5.input;
+package ir.maktab.hw5.util.input;
 
 import java.util.List;
 import java.util.Scanner;
