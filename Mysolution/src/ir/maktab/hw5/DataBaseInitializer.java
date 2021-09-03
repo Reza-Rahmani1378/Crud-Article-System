@@ -1,5 +1,9 @@
 package ir.maktab.hw5;
 
+import ir.maktab.hw5.domain.Article;
+import ir.maktab.hw5.domain.Category;
+import ir.maktab.hw5.domain.Writer;
+
 import java.sql.Date;
 
 public class DataBaseInitializer {
