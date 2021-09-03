@@ -1,4 +1,4 @@
-package ir.maktab.hw5;
+package ir.maktab.hw5.util;
 
 public class ApplicationContext {
     private static final DataBaseInitializer dataBaseInitializer = new DataBaseInitializer();

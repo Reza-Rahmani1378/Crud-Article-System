@@ -1,8 +1,8 @@
 package ir.maktab.hw5.database;
 
-import ir.maktab.hw5.Article;
-import ir.maktab.hw5.Category;
-import ir.maktab.hw5.Writer;
+import ir.maktab.hw5.domain.Article;
+import ir.maktab.hw5.domain.Category;
+import ir.maktab.hw5.domain.Writer;
 
 import java.util.ArrayList;
 import java.util.List;

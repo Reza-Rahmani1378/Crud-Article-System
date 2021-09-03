@@ -1,4 +1,4 @@
-package ir.maktab.hw5;
+package ir.maktab.hw5.util;
 
 import ir.maktab.hw5.domain.Article;
 import ir.maktab.hw5.domain.Category;
